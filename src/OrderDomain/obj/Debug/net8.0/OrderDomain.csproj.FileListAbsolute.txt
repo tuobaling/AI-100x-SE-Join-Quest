@@ -1,0 +1,12 @@
+/home/wunhu/projects/AI-100x-SE-Join-Quest/AI-100x-SE-Join-Quest/src/OrderDomain/bin/Debug/net8.0/OrderDomain.deps.json
+/home/wunhu/projects/AI-100x-SE-Join-Quest/AI-100x-SE-Join-Quest/src/OrderDomain/bin/Debug/net8.0/OrderDomain.dll
+/home/wunhu/projects/AI-100x-SE-Join-Quest/AI-100x-SE-Join-Quest/src/OrderDomain/bin/Debug/net8.0/OrderDomain.pdb
+/home/wunhu/projects/AI-100x-SE-Join-Quest/AI-100x-SE-Join-Quest/src/OrderDomain/obj/Debug/net8.0/OrderDomain.GeneratedMSBuildEditorConfig.editorconfig
+/home/wunhu/projects/AI-100x-SE-Join-Quest/AI-100x-SE-Join-Quest/src/OrderDomain/obj/Debug/net8.0/OrderDomain.AssemblyInfoInputs.cache
+/home/wunhu/projects/AI-100x-SE-Join-Quest/AI-100x-SE-Join-Quest/src/OrderDomain/obj/Debug/net8.0/OrderDomain.AssemblyInfo.cs
+/home/wunhu/projects/AI-100x-SE-Join-Quest/AI-100x-SE-Join-Quest/src/OrderDomain/obj/Debug/net8.0/OrderDomain.csproj.CoreCompileInputs.cache
+/home/wunhu/projects/AI-100x-SE-Join-Quest/AI-100x-SE-Join-Quest/src/OrderDomain/obj/Debug/net8.0/OrderDomain.sourcelink.json
+/home/wunhu/projects/AI-100x-SE-Join-Quest/AI-100x-SE-Join-Quest/src/OrderDomain/obj/Debug/net8.0/OrderDomain.dll
+/home/wunhu/projects/AI-100x-SE-Join-Quest/AI-100x-SE-Join-Quest/src/OrderDomain/obj/Debug/net8.0/refint/OrderDomain.dll
+/home/wunhu/projects/AI-100x-SE-Join-Quest/AI-100x-SE-Join-Quest/src/OrderDomain/obj/Debug/net8.0/OrderDomain.pdb
+/home/wunhu/projects/AI-100x-SE-Join-Quest/AI-100x-SE-Join-Quest/src/OrderDomain/obj/Debug/net8.0/ref/OrderDomain.dll
